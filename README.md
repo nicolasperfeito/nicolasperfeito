@@ -6,8 +6,6 @@ My name is Nicolas Perfeito. Born and raised in Brazil. I have a bachelors degre
 
 <p>&#127891;Learning Python as fast as I can!</p>
 
-Crypto NFT enthusiast.
-
 
 ### Contact me:
 
