@@ -4,6 +4,11 @@
 
 My name is Nicolas Perfeito. Born and raised in Brazil. I have a bachelors degree in Law and a masters degree in Sociology and now I'm studying to become a programmer and system developer. Looking foward to contribute anyway I can to the Open Source community.
 
+<p>I will display &#x1F393;</p>Learning Python as fast as I can!
+
+Crypto NFT enthusiast.
+
+
 ### Contact me:
 
 <a href = "mailto:nicolas.perfeito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
