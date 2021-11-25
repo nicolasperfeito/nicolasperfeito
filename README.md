@@ -1,4 +1,4 @@
-## <p align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/87723398/143372424-6ef07dec-2691-4439-a8b7-0b96bd009a64.jpg" alt="my banner">
 </p>
 
