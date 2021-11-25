@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/87723398/143372328-532cc5ae-47c5-453c-a834-5cb0e9789359.jpg" alt="my banner">
+<img src="https://user-images.githubusercontent.com/87723398/143372424-6ef07dec-2691-4439-a8b7-0b96bd009a64.jpg" alt="my banner">
 </p>
 
 ### My name is Nicolas Perfeito. Born and raised in Brazil. I have a bachelors degree in Law and a masters degree in Sociology and now I'm studying to become a programmer and system developer. Looking foward to contribute anyway I can to the Open Source community.
