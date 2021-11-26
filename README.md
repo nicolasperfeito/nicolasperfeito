@@ -4,8 +4,8 @@
 
 My name is Nicolas Perfeito, I'm 27 years old. Born, raised and living in Brazil. I have a bachelors degree in Law and a masters degree in Sociology but nowadays I'm studying to become a programmer and system developer. Looking foward to contribute anyway I can to the Open Source community.
 
-<p>&#127891;Learning Python as fast as I can!</p>
-
+<p>&#127891;UNIVALI</p>
+<p>&#128013;Learning Python as fast as I can!</p>
 
 ### Contact me:
 
