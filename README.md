@@ -1,8 +1,8 @@
 # $ whoami
 <p align="justify"> My name is Nicolas Perfeito. I'm 27 years old, born, raised and living in Brazil. I have a bachelors degree in Law and a masters degree in Sociology but nowadays I'm studying to become a programmer and system developer. Looking foward to contribute to the Open Source community.
           </p>
-<p>&#127891;UNIVALI</p>
-<p>&#128013;Learning Python</p>
+<p>&#127891; UNIVALI</p>
+<p>&#128013; Learning Python</p>
 
 ### Contact me:
 
